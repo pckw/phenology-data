@@ -1,0 +1,17 @@
+[project]
+name = "phenology-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.2"
+dependencies = [
+    "branca>=0.8.1",
+    "easyocr>=1.7.2",
+    "folium>=0.20.0",
+    "h3>=4.3.0",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "pyarrow>=21.0.0",
+    "ruff>=0.12.4",
+]
